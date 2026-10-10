@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+sympy
+pillow   # only needed for spatial_filtering.py --image
